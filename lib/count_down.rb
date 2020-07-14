@@ -1,7 +1,7 @@
 # Write your code here
 
 # count = 10
-# while count > 0 
+# while count > 0 do
 # puts count 
 # count = count - 1 
 # end 
@@ -9,7 +9,7 @@
 
 
 count = 10 
-while count > 0 do
+while count >= 1 do
 puts count
 count -= 1
 end 
